@@ -5,17 +5,6 @@
               <li><a href="excersizelist.php">Excerises</a></li>
 			  <li><a href="nutrition.php">Nutricion</a></li>
               <li><a href="news.php">News</a></li>
-              <!-- li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Settings <span class="caret"></span></a>
-                <ul class="dropdown-menu">
-                  <li><a href="#">My Account</a></li>
-                  <li><a href="#">Preferences</a></li>
-                  <li><a href="#">Email</a></li>
-                  <li role="separator" class="divider"></li>
-                  <li class="dropdown-header">Nav header</li>
-                  <li><a href="#">One</a></li>
-                  <li><a href="#">Two</a></li>
-                </ul>
-              </li -->
+			  <li><a href="login.php">Login</a></li> 	
             </ul>
           </div>
